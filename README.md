@@ -25,6 +25,13 @@ The story is currently being serialized online and prepared for ebook publicatio
 
 ---
 
+## Language versions
+
+- Vietnamese: original manuscript
+- English: author-written translation / adaptation
+
+---
+
 ## Public Serialization
 
 The work is publicly published under the same pen name at:
