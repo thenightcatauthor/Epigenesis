@@ -1,2 +1,43 @@
 # Epigenesis
-This repository exists solely to establish authorship and public timestamp for an original fictional work.  No code here.
+
+This repository exists solely to establish authorship and public timestamp
+for an original fictional work titled **Epigenesis**.
+
+No code is hosted here.
+
+---
+
+## Author
+
+Pen name: **TheNightCat** (Mèo Đêm)  
+Country: Vietnam  
+
+This work is an original creation by the author above.
+
+---
+
+## About the Work
+
+**Epigenesis** is a near-future science fiction novel series set in 2032,
+exploring biological mutations, government suppression, and psychological conflict.
+
+The story is currently being serialized online and prepared for ebook publication.
+
+---
+
+## Public Serialization
+
+The work is publicly published under the same pen name at:
+
+- RoyalRoad: https://www.royalroad.com/fiction/143441/epigenesis
+
+---
+
+## Purpose of This Repository
+
+This repository is intended **only** to:
+- establish public authorship
+- provide a verifiable timestamp
+- support copyright ownership verification
+
+No full chapters or paid content are hosted here.
