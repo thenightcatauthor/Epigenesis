@@ -60,6 +60,8 @@ This repository is intended **only** to:
 
 No full chapters or paid content are hosted here.
 
+---
+
 ## Copyright
 
 © 2025 Thien (pen name: Mèo Đêm / TheNightCat)
