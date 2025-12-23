@@ -43,6 +43,14 @@ https://www.scribblehub.com/series/2036708/epigenesis/
 
 ---
 
+## Official serialization
+
+This work is currently being serialized publicly on RoyalRoad under the same author identity:
+
+https://www.royalroad.com/fiction/143441/epigenesis
+
+---
+
 ## Purpose of This Repository
 
 This repository is intended **only** to:
@@ -51,3 +59,10 @@ This repository is intended **only** to:
 - support copyright ownership verification
 
 No full chapters or paid content are hosted here.
+
+## Copyright
+
+© 2025 Thien (pen name: Mèo Đêm / TheNightCat)
+
+All rights reserved.
+This repository serves as proof of authorship and timestamp only.
