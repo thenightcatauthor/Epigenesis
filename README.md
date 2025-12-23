@@ -31,6 +31,9 @@ The work is publicly published under the same pen name at:
 
 - RoyalRoad: https://www.royalroad.com/fiction/143441/epigenesis
 
+- ScribbleHub:
+https://www.scribblehub.com/series/2036708/epigenesis/
+
 ---
 
 ## Purpose of This Repository
