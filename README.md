@@ -64,7 +64,8 @@ No full chapters or paid content are hosted here.
 
 ## Copyright
 
-© 2025 Thien (pen name: Mèo Đêm / TheNightCat)
+© 2025 TheNightCat
+ (pen name: Mèo Đêm / TheNightCat)
 
 All rights reserved.
 This repository serves as proof of authorship and timestamp only.
